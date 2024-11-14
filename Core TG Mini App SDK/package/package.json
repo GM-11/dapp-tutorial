@@ -9,7 +9,16 @@
     "link": "npm run build && npm link"
   },
   "type": "module",
-  "keywords": [],
+  "keywords": [
+    "core",
+    "telegram-mini-app",
+    "coredap",
+    "tg",
+    "mini-app",
+    "sdk",
+    "telegram",
+    "btcfi"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
