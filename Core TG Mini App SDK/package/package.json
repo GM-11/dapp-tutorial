@@ -1,6 +1,6 @@
 {
   "name": "create-tma-core",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,12 +12,13 @@
   "keywords": [
     "core",
     "telegram-mini-app",
-    "coredap",
+    "coredao",
     "tg",
     "mini-app",
     "sdk",
     "telegram",
-    "btcfi"
+    "btcfi",
+    "core-tg"
   ],
   "author": "",
   "license": "ISC",
